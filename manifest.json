@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Fuzzy Bookmarks New Tab",
+  "version": "1.0",
+  "description": "New tab page with fuzzy bookmark search",
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "tabs"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  }
+}
