@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icons/icon.svg" width="80" height="80" alt="FuzzyTab logo">
+  <img src="icons/icon.svg" width="80" height="80" alt="FuzzyMarks logo">
 </p>
 
-<h1 align="center">FuzzyTab</h1>
+<h1 align="center">FuzzyMarks</h1>
 
 <p align="center">
   A Firefox new tab replacement with lightning-fast fuzzy bookmark search, <a href="https://catppuccin.com">Catppuccin</a> themes, and full keyboard control.
@@ -122,6 +122,6 @@
 
 ## Support
 
-If you find FuzzyTab useful, consider supporting me:
+If you find FuzzyMarks useful, consider supporting me:
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/boldsamurai)
