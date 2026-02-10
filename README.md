@@ -104,11 +104,7 @@
 ## Installation
 
 ### Firefox
-1. Download or clone this repository
-2. Open Firefox and go to `about:debugging#/runtime/this-firefox`
-3. Click **Load Temporary Add-on** and select `manifest.json`
-
-> For permanent installation, install from [Firefox Add-ons (AMO)](https://addons.mozilla.org) once available.
+Install from [Firefox Add-ons (AMO)](https://addons.mozilla.org/firefox/addon/fuzzymarks/).
 
 ### Chrome / Edge / Brave
 1. Run `bash build.sh` to generate the Chrome package, or download from Releases
